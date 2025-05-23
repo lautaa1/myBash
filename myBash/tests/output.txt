@@ -1,0 +1,3 @@
+Ejecutando execvp con los siguientes argumentos:
+array[0]: command
+array[1]: NULL
